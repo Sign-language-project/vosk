@@ -1,0 +1,2 @@
+# vosk
+speech model deployment
