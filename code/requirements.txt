@@ -1,0 +1,5 @@
+vosk
+wave
+boto3==1.17.13
+zipfile38
+wget
