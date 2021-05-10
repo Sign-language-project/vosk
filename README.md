@@ -1,2 +1,2 @@
 # vosk
-speech model deployment
+Vosk speech model deployment
